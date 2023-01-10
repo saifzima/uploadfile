@@ -1,0 +1,60 @@
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\appsettings.json
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\UPLOADING FILE.exe
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\UPLOADING FILE.deps.json
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\UPLOADING FILE.runtimeconfig.json
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\UPLOADING FILE.runtimeconfig.dev.json
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\UPLOADING FILE.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\ref\UPLOADING FILE.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\UPLOADING FILE.pdb
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\UPLOADING FILE.Views.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\UPLOADING FILE.Views.pdb
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\Humanizer.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.AssemblyInfo.cs
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\staticwebassets\UPLOADING FILE.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\staticwebassets\UPLOADING FILE.StaticWebAssets.xml
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\scopedcss\bundle\UPLOADING FILE.styles.css
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.TagHelpers.input.cache
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.TagHelpers.output.cache
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.Views.pdb
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.csproj.CopyComplete
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.dll
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\ref\UPLOADING FILE.dll
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.pdb
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\UPLOADING FILE.genruntimeconfig.cache
+C:\Users\HP\Desktop\UPLOADING FILE\obj\Debug\net5.0\Razor\Views\FileUpLoad\Index.cshtml.g.cs
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\HP\Desktop\UPLOADING FILE\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
